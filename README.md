@@ -86,13 +86,15 @@ end
 
 ```
 
+![alt text](/Users/mohanrajkanthasamy/Desktop/Screenshot1)
+
 ## 3.Mutations
 
 >GraphQL allows you to easily modify the data by means of mutation.
-Creating, updating, and deleting database records.
-Creating associations.
-Cleaning the cache.
-Working with files.
+>Creating, updating, and deleting database records.
+>Creating associations.
+>Cleaning the cache.
+>Working with files.
 
 
 you need a new mutation
