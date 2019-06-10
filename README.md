@@ -86,7 +86,7 @@ end
 
 ```
 
-![Screenshot](Screenshot1.png)
+![Screenshot](query.png)
 
 ## 3.Mutations
 
