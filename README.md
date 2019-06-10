@@ -86,7 +86,7 @@ end
 
 ```
 
-![alt text](/Users/mohanrajkanthasamy/Desktop/Screenshot1)
+![Screenshot](Screenshot1.png)
 
 ## 3.Mutations
 
