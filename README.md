@@ -86,7 +86,12 @@ end
 
 ```
 
+### Get All Articles
 ![Screenshot](query.png)
+
+### Get Article By ID,
+![Screenshot](article-by-id.png)
+
 
 ## 3.Mutations
 
@@ -136,4 +141,8 @@ module Types
 end
 
 ```
+
+### Create Mutation with Variable
+![Screenshot](create-article.png)
+
 
