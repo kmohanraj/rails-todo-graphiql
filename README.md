@@ -51,7 +51,7 @@ Then, Migrate
 rails db:migrate
 ```
 
-## 2.Queries
+## 3.Queries
 
 Create the new [Article type](article_type.rb)
 ```
@@ -93,7 +93,7 @@ end
 ![Screenshot](article-by-id.png)
 
 
-## 3.Mutations
+## 4.Mutations
 
 >GraphQL allows you to easily modify the data by means of mutation.
 >Creating, updating, and deleting database records.
